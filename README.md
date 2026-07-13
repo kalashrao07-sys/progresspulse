@@ -10,7 +10,7 @@
 ## 🌐 Live Application
 <div align="center">
   <a href="https://progresspulse-1-mclq.onrender.com/login">
-    <img src="https://github.com/ProgressPulse.png" alt="ProgressPulse" width="300">
+    <img src="https://github.com/kalashrao07-sys/progresspulse/blob/main/ProgressPulse.png" alt="ProgressPulse" width="300">
     <br>
     <sub>👆 Click the logo to visit the live website!</sub>
   </a>
