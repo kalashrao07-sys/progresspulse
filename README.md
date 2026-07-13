@@ -7,6 +7,17 @@
 
 ---
 
+## 🌐 Live Application
+<div align="center">
+  <a href="https://progresspulse-1-mclq.onrender.com/login">
+    <img src="https://github.com/ProgressPulse.png" alt="ProgressPulse" width="300">
+    <br>
+    <sub>👆 Click the logo to visit the live website!</sub>
+  </a>
+</div>
+
+---
+
 ## 🌟 Core Modes
 
 ProgressPulse operates in three distinct, simultaneous modes accessible via a dashboard switcher:
@@ -132,8 +143,8 @@ ollama serve
 ## 🔑 Environment Variables (`server/.env`)
 
 ```env
-MONGO_URI=mongodb+srv://naikomkar106_db_user:UatKsYqjJWVaM5Qz@cluster0.29eac6z.mongodb.net/progresspulse?appName=Cluster0
-JWT_SECRET=progresspulse_secret_omkar_2024
+MONGO_URI=your_mongodb_url
+JWT_SECRET=progresspulse_secret
 PORT=5000
 CLIENT_URL=http://localhost:3000
 
@@ -197,5 +208,4 @@ progresspulse/
 
 **Built with ❤️ — ProgressPulse Smart Productivity Ecosystem**
 
-```
-
+---
