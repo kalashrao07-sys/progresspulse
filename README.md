@@ -1,6 +1,3 @@
-Here is a comprehensive and polished `README.md` that integrates all the detailed information, vision, and features you shared about ProgressPulse, while maintaining your excellent setup instructions and technical structure.
-
-```markdown
 # ProgressPulse 🚀
 ## Smart Goal, Productivity & Task Tracking System
 
